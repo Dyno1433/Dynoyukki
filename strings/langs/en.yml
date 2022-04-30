@@ -5,8 +5,8 @@ general_1 : "Reply to a user's message or give username/user_id."
 general_2 : "BABY! Wrong Usage of Command."
 general_3 : "Some **exception occured** while processing your query.\n\nException Type:- {0}"
 general_4 : "You're an anonymous admin in this chat group!\nRevert back to User Account From Admin Rights."
-general_5 : "You need to be admin with manage voice chat rights to perform this action."
-general_6 : "BABY i am not there."
+general_5 : "🥲 BABY ADMIN TOH BAN JAO PHELLE."
+general_6 : "🥺 BABY i am not there."
 
 # Classes - Telegram.py
 tg_1 : "Bot is **overloaded** with downloads right now.\n\n**Try After:** {0} (__expected time__)"
@@ -204,7 +204,7 @@ lyrics_3 : "❌ Failed to fetch lyrics😭.\n\n💡**Tried Searching For:** {0}"
 lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam types lyrics search."
 
 #Ping
-ping_1 : "Pong!!!!"
+ping_1 : "Power"
 ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} and has used a total of {3} server's storage. Cpu load is about {4} with a consumption of {5} Ram. Py-Tgcalls client is also having a good ping of `{6}` ms."
 
 
@@ -222,10 +222,10 @@ song_10 : "Failed to upload on telegram from servers."
 song_11 : "Uploading Started\n\nUploading speed could be slow. Please hold on.."
 
 # Tools - Queue
-queue_1 : "Please Wait..Fetching Queue.."
+queue_1 : "🤗 BABY Wait..Fetching Queue.."
 queue_2 : "Queued List is empty. No tracks found"
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2}\n👤**Added By:** {3}"
+queue_4 : "😘 BABY WAITING MAI HAIN**#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2}\n👤**Added By:** {3}"
 queue_5 : "Only one track inside queue, Please add some more to check list"
 
 # All Streaming Lines
